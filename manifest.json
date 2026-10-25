@@ -1,0 +1,20 @@
+{
+"name": "Ledger Pro",
+"short_name": "Ledger Pro",
+"start_url": "https://cosmic-longma-86bda3.netlify.app/",
+"display": "standalone",
+"background_color":
+"#ffffff",
+"theme_color":
+"#2196F3",
+"icons": [
+{
+"src":
+"https://cosmic-longma-86bda3.netlify.app/icon.png",
+"sizes":
+"512x512",
+"type":
+"image/png"
+}
+]
+}
